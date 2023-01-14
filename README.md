@@ -1,4 +1,4 @@
-# Recibe Project
+# Recipe Forkify Project
 
 A cooking recipe application.
 
